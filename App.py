@@ -4,6 +4,8 @@ st.title("Image Processing Web Application")
 
 st.sidebar.title("Navigation")
 st.sidebar.write("Use the menu to navigate.")
+st.sidebar.write("About Group")
+st.sidebar.write("Image processing")
 
 st.title("About the Group")
 st.write("This page provides information about the group members.")
